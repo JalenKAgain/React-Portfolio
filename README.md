@@ -11,7 +11,6 @@ A portfolio that showcases your skills and talents to employers looking to fill 
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
-- [Links](#Links)
 - [Questions](#Questions)
         
 ## Installation
