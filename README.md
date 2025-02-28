@@ -40,10 +40,6 @@ In order to use the funtionality of this application you must do the following:
 ## Contributing
 Contributions are needed
 
-
-## Link
-Click the link for walk-through video. 
-https://github.com/JalenKAgain/React-Portfolio.git
                                         
 ## Questions
 
