@@ -15,30 +15,35 @@ A portfolio that showcases your skills and talents to employers looking to fill 
 - [Questions](#Questions)
         
 ## Installation
-Here are the npm packages you will need.
+Here is the npm package you will need.
  1. Install vite
    ```sh
    npm create vite
    ```
-2. Install npm  pg
-   ```sh
-   npm i pg
-   ```
 
 ## Usage
 In order to use the funtionality of this application you must do the following:
+- Install vite package and then answer the prompt questions.
+- Create project name.
+- Click react.
+- Click javascrimpt.
+- Type npm i in the terminal.
+- Type npm run dev in the terminal.
+- Local host should appear.
+- Click follow link.
+- Now we have action.
+- Check out the functionality.
 
 
 
 
 ## Contributing
-Contributions are needed. Greatly appreciated. I'm always open to suggestions on how to make creations better.
+Contributions are needed
 
 
 ## Link
 Click the link for walk-through video. 
-* https://drive.google.com/file/d/1JYdGsiufFStRt_UKLODTb2maBz_Ai6tm/view
-* https://drive.google.com/file/d/18a1d1gIPzzGiHGLnfLMSXTEwxL11XlIx/view
+
                                         
 ## Questions
 
