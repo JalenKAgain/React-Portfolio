@@ -1,7 +1,7 @@
 
 
 # React Portfolio
-![image_alt]([react-portfolio\src\assets\react.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F77136%2Freact&psig=AOvVaw1q1bJSqE_IFSmG8ntYhwzJ&ust=1740840440532000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjv_ZHO5osDFQAAAAAdAAAAABAE))
+![image_alt](https://github.com/JalenKAgain/React-Portfolio/blob/ff2b113c0bb255f77e36d9abc07b78004aec68f0/react-icon-512x456-5xl7nmtw.png)
 
 
 ## Description
