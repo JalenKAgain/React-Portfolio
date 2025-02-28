@@ -1,7 +1,7 @@
 
 
 # React Portfolio
-![image_alt](C:\Users\jacja\bootcamp\React-Portfolio\react-portfolio\src\assets\react.svg)
+![image_alt](react-portfolio\src\assets\react.svg)
 
 
 ## Description
