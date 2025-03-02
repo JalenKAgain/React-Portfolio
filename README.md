@@ -1,5 +1,3 @@
-
-
 # React Portfolio
 ![image_alt](https://github.com/JalenKAgain/React-Portfolio/blob/ff2b113c0bb255f77e36d9abc07b78004aec68f0/react-icon-512x456-5xl7nmtw.png)
 
